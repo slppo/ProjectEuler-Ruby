@@ -1,3 +1,5 @@
+#! /usr/bin/env ruby
+
 $fibTerms = [1, 2]
 
 def fibonacci(n)	
